@@ -4,9 +4,9 @@ Here is code verifying the computations and theorems of the manuscript
 
                                    By Harris B. Daniels, Alvaro Lozano-Robledo, and Jackson S. Morrow
                                    
-To get started, 
+To get started, download the files in the folder AuxillaryFiles. 
 
-In this Github repository, there are 
+
 
 
 
