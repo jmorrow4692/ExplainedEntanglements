@@ -1,4 +1,4 @@
-load "~/Classification_of_Entanglements/AuxillaryFiles/Group_functions.m";
+load "~/Classification_of_Entanglements/AuxiliaryFiles/Group_functions.m";
 
 //Page 9 computations
 G26 := GL(2,Integers(26));
